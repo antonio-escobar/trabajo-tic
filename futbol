@@ -2,29 +2,29 @@
 <table class="default">
 <tr>
 <td>real madrid <img src="descargas/realmadrid.png"></td>
-<td>atletico de madrid <img src="atleti.png"></td>
-<td>barcelona <img src="barcelona.jfif"></td>
+<td>atletico de madrid <img src=descargas/"atleti.png"></td>
+<td>barcelona <img src="descargas/barcelona.jfif"></td>
 
-    <td>sevilla <img src="sevilla.jfif"></td>
+    <td>sevilla <img src="descargas/sevilla.jfif"></td>
 
   </tr>
 
   <tr>
 
-    <td>betis <img src="betis.png"></td>
+    <td>betis <img src="descargas/betis.png"></td>
  
-    <td>valencia <img src="valencia.jfif"></td>
+    <td>valencia <img src="descargas/valencia.jfif"></td>
 
-    <td>athletic <img src="athletic.png"></td>
+    <td>athletic <img src="descargas/athletic.png"></td>
 
   </tr>
   <tr>
-  <td>villareal <img src="villareal.png"></td>
-  <td>granada <img src="granada.png"></td>
-  <td>real sociedad <img src="real_sociedad></td>
-  <td>celta <img src="celta.png"></td>
-  <td>cadiz <img src="cadiz.png></td>
-  <td>mallorca <img src="mallorca.png></td>
+  <td>villareal <img src="descargas/villareal.png"></td>
+  <td>granada <img src="descargas/granada.png"></td>
+  <td>real sociedad <img src="descargas/real_sociedad></td>
+  <td>celta <img src="descargas/celta.png"></td>
+  <td>cadiz <img src="descargas/cadiz.png></td>
+  <td>mallorca <img src="descargas/mallorca.png></td>
   
   </tr>
 
