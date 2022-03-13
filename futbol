@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]><html class="ie ie7" xmlns="https://www.w3.org/1999/xhtml" lang="es" xml:lang="es" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" xmlns="https://www.w3.org/1999/xhtml" lang="es" xml:lang="es" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="https://www.w3.org/1999/xhtml" lang="es" xml:lang="es" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+  <head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.ceinpro.es/sites/all/themes/astrum/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Programa Ikasenpresa 2022 El programa Ikasenpresa, promovido por el Departamento de Educación del Gobierno Vasco a través de Tknika (Centro de Innovación para la Formación Profesional y el Aprendizaje Permanente), busca el fomento de la cultura emprendedora en los grados formativos y el desarrollo de las capacidades del alumnado para el emprendimiento a través de la simulación" />
+<meta name="keywords" content="Ceinpro,formacion,diseño, gráfico,Internet, Multimedia, Donostia, San Sebastián,Prevención de Riesgos Laborales, Inem, Lanbide, Sarbideak, Hobetuz" />
+<meta property="og:site_name" content="CEINPRO | FORMACIÓN DE FUTURO" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.ceinpro.es/trabajos-de-alumnos/2022/programa-ikasenpresa-2022" />
+<meta property="og:title" content="Programa Ikasenpresa 2022" />
+<meta property="og:description" content="Programa Ikasenpresa 2022 El programa Ikasenpresa, promovido por el Departamento de Educación del Gobierno Vasco a través de Tknika (Centro de Innovación para la Formación Profesional y el Aprendizaje Permanente), busca el fomento de la cultura emprendedora en los grados formativos y el desarrollo de las capacidades del alumnado para el emprendimiento a través de la simulación de pequeñas empresas en las aulas. ¿Qué hacemos en el aula?" />
+    <title>CEINPRO - Programa Ikasenpresa 2022</title>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:700,600,400' rel='stylesheet' type='text/css'>
+    <style type="text/css" media="all">
+@import url("https://www.ceinpro.es/modules/system/system.base.css?r685wo");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.ceinpro.es/modules/comment/comment.css?r685wo");
+@import url("https://www.ceinpro.es/modules/field/theme/field.css?r685wo");
+@import url("https://www.ceinpro.es/modules/node/node.css?r685wo");
+@import url("https://www.ceinpro.es/modules/search/search.css?r685wo");
+@import url("https://www.ceinpro.es/modules/user/user.css?r685wo");
+@import url("https://www.ceinpro.es/sites/all/modules/webform_confirm_email/webform_confirm_email.css?r685wo");
+@import url("https://www.ceinpro.es/sites/all/modules/calendar/css/calendar_multiday.css?r685wo");
+@import url("https://www.ceinpro.es/sites/all/modules/views/css/views.css?r685wo");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.ceinpro.es/sites/all/modules/ctools/css/ctools.css?r685wo");
+@import url("https://www.ceinpro.es/modules/locale/locale.css?r685wo");
+@import url("https://www.ceinpro.es/sites/all/themes/astrum/css/base.css?r685wo");
+@import url("https://www.ceinpro.es/sites/all/themes/astrum/css/responsive.css?r685wo");
+@import url("https://www.ceinpro.es/sites/all/themes/astrum/css/icons.css?r685wo");
+@import url("https://www.ceinpro.es/sites/all/themes/astrum/css/style.css?r685wo");
+@import url("https://www.ceinpro.es/sites/all/themes/astrum/css/colors/green.css?r685wo");
+@import url("https://www.ceinpro.es/sites/all/themes/astrum/css/astrum.css?r685wo");
+@import url("https://www.ceinpro.es/sites/default/files/color/astrum_color_cache/colors.css?r685wo");
+@import url("https://www.ceinpro.es/sites/all/libraries/superfish/css/superfish.css?r685wo");
+</style>
+              <style type="text/css">
+        body{background: url('/sites/all/themes/astrum/images/bg/noise.png') scroll 0 0 repeat;}
+      </style>
+        <!--[if lt IE 9]>
+      <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.7.2.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.ceinpro.es/misc/jquery-extend-3.4.0.js?v=1.7.2"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/misc/drupal.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/modules/fb/fb.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/default/files/languages/es_xBSU4pKcO2ntblnJEbP4TfOzvyKdZg1X2jtbYWsrm3k.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/modules/tabvn/flexslider_format/jquery.flexslider.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/modules/service_links/js/facebook_share.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/modules/google_analytics/googleanalytics.js?r685wo"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-6228934-1", {"cookieDomain":"auto","allowLinker":true});ga("require", "linker");ga("linker:autoLink", ["www.ceinpro.es","www.ceinpro.eus"]);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/libraries/superfish/sfsmallscreen.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/libraries/superfish/supposition.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/libraries/superfish/superfish.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/libraries/superfish/supersubs.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/modules/superfish/superfish.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/themes/astrum/scripts/jquery.tp.plugins.min.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/themes/astrum/scripts/jquery.sb.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/themes/astrum/scripts/jquery.easing.min.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/themes/astrum/scripts/jquery.tooltips.min.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/themes/astrum/scripts/jquery.magnific-popup.min.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/themes/astrum/scripts/jquery.jpanelmenu.js?r685wo"></script>
+<script type="text/javascript" src="https://www.ceinpro.es/sites/all/themes/astrum/scripts/custom.js?r685wo"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"astrum","theme_token":"pMUCfzvOd1ZKnr8CNVUBj3y4ZioRKmJiW2g-E4zwzt0","js":{"modules\/statistics\/statistics.js":1,"\/\/code.jquery.com\/jquery-1.7.2.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/fb\/fb.js":1,"public:\/\/languages\/es_xBSU4pKcO2ntblnJEbP4TfOzvyKdZg1X2jtbYWsrm3k.js":1,"sites\/all\/modules\/tabvn\/flexslider_format\/jquery.flexslider.js":1,"sites\/all\/modules\/service_links\/js\/facebook_share.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/astrum\/scripts\/jquery.tp.plugins.min.js":1,"sites\/all\/themes\/astrum\/scripts\/jquery.sb.js":1,"sites\/all\/themes\/astrum\/scripts\/jquery.easing.min.js":1,"sites\/all\/themes\/astrum\/scripts\/jquery.tooltips.min.js":1,"sites\/all\/themes\/astrum\/scripts\/jquery.magnific-popup.min.js":1,"sites\/all\/themes\/astrum\/scripts\/jquery.jpanelmenu.js":1,"sites\/all\/themes\/astrum\/scripts\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/webform_confirm_email\/webform_confirm_email.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/astrum\/css\/base.css":1,"sites\/all\/themes\/astrum\/css\/responsive.css":1,"sites\/all\/themes\/astrum\/css\/icons.css":1,"sites\/all\/themes\/astrum\/css\/style.css":1,"sites\/all\/themes\/astrum\/css\/colors\/green.css":1,"sites\/all\/themes\/astrum\/css\/astrum.css":1,"public:\/\/color\/astrum_color_cache\/colors.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/astrum\/system.messages.css":1,"sites\/all\/themes\/astrum\/system.menus.css":1,"sites\/all\/themes\/astrum\/system.theme.css":1}},"ws_fs":{"type":"button_count","app_id":"300686213434259","css":"150123828484431","locale":"en_US"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1,"trackDomainMode":2,"trackCrossDomains":["www.ceinpro.es","www.ceinpro.eus"]},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Men\u00fa principal"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}},"statistics":{"data":{"nid":"3480"},"url":"https:\/\/www.ceinpro.es\/modules\/statistics\/statistics.php"}});
+//--><!]]>
+</script>
+  </head>
+    <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3480 node-type-portfolio i18n-es wide" >
+    <div id="skip-link">
+      <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+    </div>
+        
+<!-- Header
+================================================== -->
+<header id="header">
+
+  <!-- Container -->
+  <div class="container">
+
+    <!-- Logo / Mobile Menu -->
+    <div class="three columns">
+
+      <div id="mobile-navigation">
+
+                  <form method="POST" title="Bilatzailea" id="menu-search" action="https://www.ceinpro.es/search">
+            <input name="keys" id="keys" type="text" placeholder="Busca..." />
+			<input type="submit" value="Bilatu" /><br /> 
+			</form>
+
+          <span class="search-trigger"><i class="icon-search"></i></span>
+                <a href="#menu" class="menu-trigger"><i class="icon-reorder"></i></a>
+      </div>
+
+      <div id="logo">
+                  <h1><a href="https://www.ceinpro.es/" title="Inicio" rel="home">
+              <img src="https://www.ceinpro.es/sites/all/themes/astrum/logo.png" alt="Inicio" />
+            </a></h1>
+        
+        
+        <div class="clearfix"></div>
+      </div>
+    </div>
+
+
+    <!-- Navigation
+    ================================================== -->
+	  <div class="region region-idiomas">
+    <div id="block-locale-language" class="block block-locale">
+
+    
+  <div class="content">
+    <ul class="language-switcher-locale-url"><li class="es first active"><a href="https://www.ceinpro.es/trabajos-de-alumnos/2022/programa-ikasenpresa-2022" class="language-link active" xml:lang="es">Español</a></li>
+<li class="eu last"><span class="language-link locale-untranslated" xml:lang="eu">Euskara</span></li>
+</ul>  </div>
+</div>
+  </div>
+
+	
+    <div class="thirteen columns">
+              <nav id="navigation" class="menu">
+            <div class="region region-main-menu">
+    <div id="block-superfish-1" class="block block-superfish">
+
+    
+  <div class="content">
+    <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-5 sf-single-items-1"><li id="menu-174-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="https://www.ceinpro.es/" title="" class="sf-depth-1">Inicio</a></li><li id="menu-520-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="https://www.ceinpro.es/ciclos-formativos" class="sf-depth-1 menuparent">Ciclos Formativos</a><ul><li id="menu-526-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ciclos-formativos/preimpresion-digital" class="sf-depth-2">Preimpresión Digital</a></li><li id="menu-527-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ciclos-formativos/diseno-y-edicion-de-publicaciones-impresas-y-multimedia" class="sf-depth-2">Diseño y Edición de Publicaciones Impresas y Multimedia</a></li><li id="menu-1537-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ciclos-formativos/animaciones-3d-juegos-entornos-interactivos" class="sf-depth-2">Animaciones 3D, Juegos y Entornos Interactivos</a></li><li id="menu-528-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/trabajos-de-alumnos" title="Dossier de Trabajos de Alumnos" class="sf-depth-2">Trabajos de Alumnos</a></li><li id="menu-4576-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/empresas/formacion-dual-en-regimen-de-alternancia" title="" class="sf-depth-2">Formación DUAL</a></li><li id="menu-4258-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/puertas-abiertas" class="sf-depth-2">Puertas abiertas</a></li></ul></li><li id="menu-521-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="https://www.ceinpro.es/formacion-para-el-empleo" class="sf-depth-1 menuparent">Formación Subvencionada</a><ul><li id="menu-1503-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/formacion-para-el-empleo/certificados-profesionalidad" class="sf-depth-2">Certificados de Profesionalidad</a></li><li id="menu-532-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/formacion-para-el-empleo/fundae" title="Cursos de formación especializada 100% subvencionados por LANBIDE" class="sf-depth-2">Fundae</a></li><li id="menu-533-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/formacion-para-el-empleo/lanbide" class="sf-depth-2">Lanbide</a></li><li id="menu-534-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/formacion-para-el-empleo/formacion-bonificada" title="Gestión de bonificaciones de las empresas en los Seguros Sociales" class="sf-depth-2">Formación Bonificada</a></li><li id="menu-540-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/formacion-para-el-empleo/formacion-para-empresas" title="Formación para Empresas" class="sf-depth-2">Formación para Empresas</a></li><li id="menu-1376-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/formacion-para-el-empleo/pearson-vue" class="sf-depth-2">Pearson VUE</a></li></ul></li><li id="menu-504-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-10 sf-parent-children-0 sf-single-children-10 menuparent"><a href="https://www.ceinpro.es/ceinpro" class="sf-depth-1 menuparent">Ceinpro</a><ul><li id="menu-510-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ceinpro/mision-vision-y-valores" class="sf-depth-2">Misión, Visión y Valores</a></li><li id="menu-1795-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ceinpro/politica-de-sistema-integrado-de-gestion" title="Política de Sistema Integrado de Gestión" class="sf-depth-2">Política de SIG</a></li><li id="menu-857-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ceinpro/homologaciones" title="Homologaciones" class="sf-depth-2">Homologaciones</a></li><li id="menu-512-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ceinpro/equipo-de-trabajo" class="sf-depth-2">Equipo de trabajo</a></li><li id="menu-513-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ceinpro/trabaja-con-nosotros" class="sf-depth-2">Trabaja con nosotros</a></li><li id="menu-514-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ceinpro/localizacion" class="sf-depth-2">Localización</a></li><li id="menu-515-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ceinpro/instalaciones-y-recursos" class="sf-depth-2">Instalaciones y Recursos</a></li><li id="menu-517-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ceinpro/ceinpro-en-los-medios" class="sf-depth-2">Ceinpro en los medios</a></li><li id="menu-518-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ceinpro/colaboraciones" class="sf-depth-2">Colaboraciones</a></li><li id="menu-519-1" class="last even sf-item-10 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/ceinpro/buzon-de-sugerencias" class="sf-depth-2">Buzón de Sugerencias</a></li></ul></li><li id="menu-3945-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="https://www.ceinpro.es/empresas" class="sf-depth-1 menuparent">Empresas</a><ul><li id="menu-3948-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/empresas/formacion-dual-en-regimen-de-alternancia" class="sf-depth-2">Formación DUAL</a></li><li id="menu-3947-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="https://www.ceinpro.es/empresas/tkgune" class="sf-depth-2">TKGune</a></li></ul></li><li id="menu-523-1" class="last even sf-item-6 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="https://www.ceinpro.es/alumnos" class="sf-depth-1 menuparent">Alumnos</a><ul><li id="menu-2562-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://agora.ceinpro.es/" title="" class="sf-depth-2">Agora</a></li><li id="menu-2567-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="http://correo.alumni.ceinpro.es/" title="" class="sf-depth-2">Correo Electrónico</a></li><li id="menu-3942-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="https://ceinpro.inika.net/" title="" class="sf-depth-2">Einika</a></li></ul></li></ul>  </div>
+</div>
+  </div>
+        </nav>
+          </div>
+
+  </div>
+  <!-- Container / End -->
+
+</header>
+<!-- Header / End -->
+
+
+<!-- Content Wrapper / Start -->
+<div id="content-wrapper">
+
+
+  
+  
+ 
+
+  <div id="content-container" class="container">
+
+    
+    <!-- Page Content -->
+    <div class="sixteen columns">
+      <section class="page-content">
+                <a id="main-content"></a>
+                 
+        <div class="tabs"></div>                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <article id="node-3480" class="node node-portfolio node-portfolio post" about="https://www.ceinpro.es/trabajos-de-alumnos/2022/programa-ikasenpresa-2022" typeof="sioc:Item foaf:Document">
+      <section class="content-section">
+    
+   
+    <header class="meta">
+                        <span property="dc:title" content="Programa Ikasenpresa 2022" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          </header>
+    
+
+    <div class="field field-name-field-imagen field-type-image field-label-hidden"><div class="field-items"><div class="field-item even">
+
+
+
+          <figure class="post-img media">
+      <div class="mediaholder">
+        <a rel="gallery[3480]" class="colorbox" href="public://styles/large/public/images/portafolio/portada_web_ikasenpresa_1.jpg"><img typeof="foaf:Image" src="https://www.ceinpro.es/sites/default/files/styles/portfolio_view/public/images/portafolio/portada_web_ikasenpresa_1.jpg?itok=YyLGenm8" width="1180" height="425" alt="" /><div class="hovercover"><div class="hovericon"><i class="hoverzoom"></i></div></div>        </a>
+      </div>
+    </figure>
+  
+</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="twelve columns alpha">
+	<h3 class="headline">Programa Ikasenpresa 2022</h3><span class="line"></span><div class="clearfix"></div>
+<p>El programa Ikasenpresa, promovido por el <strong>Departamento de Educación del Gobierno Vasco</strong> a través de <strong>Tknika </strong>(Centro de Innovación para la Formación Profesional y el Aprendizaje Permanente), busca el <strong>fomento de la cultura emprendedora</strong> en los grados formativos y el desarrollo de las capacidades del alumnado para el emprendimiento a través de la simulación de pequeñas empresas en las aulas.</p>
+<h4>¿Qué hacemos en el aula?</h4>
+<p>Los alumnos montan una pequeña empresa pasando por distintas fases, desde la identificación de la idea de negocio, la puesta en marcha, el estudio de mercado, el marketing mix y la producción o prestación de servicios. Durante estas fases desarrollan muchas actividades ligadas a una empresa, trabajan el DAFO, el CANVAS, la gestión de la administración y finanzas, campañas de marketing digital y RRSS (Redes Sociales), la identidad corporativa, el packaging, videos de presentación, folletos, catálogos web, carteles, etc.</p>
+<p>Y Durante el mes de febrero se organiza una feria para que los alumnos trabajen el punto de venta y ofrezcan al público sus productos.</p>
+
+
+<h4>Woho 360 ganadora de la primera fase del concurso Ikasenpresa 2021-2022</h4>
+<p>El programa Ikasenpresa quiere premiar el talento emprendedor del alumnado de FP por lo que organiza un concurso todos los años. El formato de esta edición ha sido distinto al de concursos anteriores, y se ha dividido en tres fases con el objetivo de mejorar la calidad de los proyectos presentados y fomentar el interés del alumnado. En la primera etapa, se ha valorado la idea de negocio de las Ikasenpresas. Y en el apartado Servicios, la empresa ganadora de este año ha sido nuestra ikasenpresa “Woho 360”, el negocio de experiencias de realidad virtual enfocado a las personas con necesidades especiales.</p>
+
+
+<h4>DONOSTIA INNOVATION CHALLENGE.</h4>
+<p><strong>La idea de negocio 3DU ganador en la categoría Mejor Diseño de Proyecto. WOHO 360 ganador en la categoría Mejor Uso de la Realidad Mixta</strong></p>
+
+<p>Nuestros alumnas y alumnos participan también en el programa DONOSTIA INNOVATION CHALLENGE promovido por FOMENTO SAN SEBASTIÁN. Una iniciativa orientada a fomentar el desarrollo de capacidades y la INNOVACIÓN de los jóvenes donostiarras en la fase de formación. <strong>El reto es diseñar soluciones innovadoras para mejorar la ciudad integrando tecnologías disruptivas en sus prototipos, como la impresión 3D, la robótica avanzada, la realidad mixta, la inteligencia artificial e internet de las cosas.</strong></p>
+
+<p>Para el desarrollo de las ideas y proyectos, los alumnos han contado con la ayuda de diversos centros tecnológicos de San Sebastián, como <strong>Biodonostia, Tecnun, Ikusi, Vicomtech, Developair, Ikor, Ceit, Domotek, Nuavis. Irisbond, Educareality, Naru Intelligence o Cybersurgery</strong>.</p>
+
+<p>Este año <strong>Donostia Innovation Challenge </strong>ha entregado sus premios y reconocimientos, distribuidos en 12 categorías. Y las categorías en las que los alumnos y alumnas de CEINPRO han recogido premio han sido:</p>
+
+<ul style="margin: 2px 0 18px 0;" class="list-3"><li>  <strong>MEJOR USO REALIDAD MIXTA: WOHO 360 </strong></li>
+  <li>  <strong>MEJOR DISEÑO DEL PROYECTO: 3DU </strong></li>
+</ul><p><a href="http://www.donostiainn.eus/es/impulso-al-talento/donostia-innovation-campus/donostia-innovation-challenge">http://www.donostiainn.eus/es/impulso-al-talento/donostia-innovation-campus/donostia-innovation-challenge</a></p>
+
+
+	<h3 class="headline">Descripción de las Ikasenpresas</h3><span class="line"></span><div class="clearfix"></div>
+
+
+<ul style="margin: 2px 0 18px 0;" class="list-3"><li>  <strong>DonostiGo!</strong>: Es una App para fomentar el turismo de nuestra Cuidad a través de realidad aumentada para hacerlo de una manera dinámica y visual. </li>
+  <li>  <strong>Banapp Donosti</strong>: Esta idea consiste en crear una app en la que vender productos de todo tipo procedentes del comercio local. Este proyecto va dirigido a personas (desde jóvenes a mayores) residentes en Donosti o lugares cercanos que están comprometidos con el medioambiente, el desarrollo del comercio local y en contra de las desigualdades sociales.</li>
+  <li>    <strong>Blossoms</strong>:  Blossoms es una marca de ropa y accesorios confeccionados con impresoras 3D que realiza sus productos con materiales reciclados, creada por jóvenes visionarias en el País Vasco. Tiene como objetivo ayudar y dar visibilidad a grupos de mujeres, personas del colectivo LGTBIQ+ y personas racializadas.</li>
+  <li>    <strong>Ur space</strong>: Mobiliario móvil y adaptable para la optimización del espacio en hogares de Donostia mediante estructuras motorizadas. Mediante un mobiliario adaptable, un dormitorio de pequeñas dimensiones puede convertirse en una cocina convencional y visualizarlo con una app de realidad aumentada para facilitar mejor la proyección de esa reforma.</li>
+  <li>    <strong>Kotak</strong>: La idea planteada trata de colocar 3 cubos en puntos de interés de Donostia, que irán cambiando de ubicación cada 6 meses. Al acceder al interior de dichos cubos los clientes podrán visualizar los alrededores del lugar donde se encuentran en ese momento y tras un instante podrán ver el pasado de ese mismo lugar mediante Realidad Virtual a base de 6 paneles situados en cada cara interior del cubo. Estos paneles nos proporcionarán una visión en 360 grados en todos los ángulos de la zona en cuestión mientras una voz en off nos explicara la historia de ese lugar donde estarán los clientes.</li>
+  <li>    <strong>3DU</strong>: Probador virtual de ropa para el que se realiza un escáner y modelo 3D del cliente.Esta idea surgió con la finalidad de crear un método de compra más sencillo y cómodo para que los consumidores puedan tener una experiencia de compra satisfactoria y rápida.</li>
+  <li>    <strong>Woho</strong>: En Woho 360 ofrecen experiencias de realidad virtual a personas con necesidades especiales y movilidad reducida, personas de la tercera edad, personas con limitaciones físicas, asociaciones y centros de día. Todo esto lo consiguen gracias a las gafas de realidad virtual, vídeos 360 y modelado de espacios interiores.</li>
+</ul></div>
+
+
+
+<div class="clearfix"></div>
+<!-- Container -->
+<div class="container">
+
+<!-- Servicios
+================================================== -->
+    <h3 class="headline">Webs de las Ikasenpresas</h3><span class="line"></span><div class="clearfix"></div>
+
+	<div class="four columns alpha">
+		<a href="https://2a.2021.alumni.ceinpro.es/donostigo/">
+		<div class="notice-box-p">
+			<h3>DonostiGo</h3>
+			<img class="mediaholder" src="https://2a.2021.alumni.ceinpro.es/donostigo/img/logo-color1.svg" /></div>
+		</a>
+	</div>
+
+
+	<div class="four columns">
+		<a href="https://2a.2021.alumni.ceinpro.es/blossoms/">
+		<div class="notice-box-p">
+			<h3>Blossoms</h3>
+			<img class="mediaholder" src="https://2a.2021.alumni.ceinpro.es/blossoms/imgs/logo-blossoms.svg" /></div>
+		</a>
+	</div>
+
+
+
+
+
+	<div class="four columns">
+		<a href="https://2a.2021.alumni.ceinpro.es/urspace/">
+		<div class="notice-box-p">
+			<h3>Ur Space</h3>
+			<img class="mediaholder" src="https://2a.2021.alumni.ceinpro.es/urspace/img2/logo.svg" /></div>
+		</a>
+	</div>
+
+	<div class="four columns">
+		<a href="https://2a.2021.alumni.ceinpro.es/kotak/">
+		<div class="notice-box-p">
+			<h3>Kotak</h3>
+			<img class="mediaholder" src="https://2a.2021.alumni.ceinpro.es/kotak/img/Donostia-fotos-antiguas-18.gif" /></div>
+		</a>
+	</div>
+
+
+
+
+
+    <h3 class="headline">Videos de las Ikasenpresas</h3><span class="line"></span><div class="clearfix"></div>
+
+
+<div class="clearfix"></div>
+<!-- Container -->
+<div class="container">
+
+<!-- primera fila
+================================================== -->
+    <h3 class="headline"> </h3><span class="line"></span><div class="clearfix"></div>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/6eiKX4NfnrM?list=PLPKhQl_sx0YumSxZ4c3uSA6dpMlGyAdAY" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/dpt6zy1UM_U?list=PLPKhQl_sx0YumSxZ4c3uSA6dpMlGyAdAY" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/3MhbwRz4aYI?list=PLPKhQl_sx0YumSxZ4c3uSA6dpMlGyAdAY" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/or7soIkRQG4?list=PLPKhQl_sx0YumSxZ4c3uSA6dpMlGyAdAY" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/oRNn4Ko_Fb4?list=PLPKhQl_sx0YumSxZ4c3uSA6dpMlGyAdAY" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/MO9SswIsueE?list=PLPKhQl_sx0YumSxZ4c3uSA6dpMlGyAdAY" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+
+</div></div></div></div>      </section>
+  <div class="clearfix"></div>
+
+  <ul class="links inline"><li class="service-links-twitter first"><a href="https://twitter.com/share?url=https%3A//www.ceinpro.es/trabajos-de-alumnos/2022/programa-ikasenpresa-2022&amp;text=Programa%20Ikasenpresa%202022" title="Compartir en Twitter" class="service-links-twitter" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ceinpro.es/sites/all/modules/service_links/images/twitter.png" alt="Twitter logo" /></a></li>
+<li class="service-links-facebook-share last"><a href="https://www.facebook.com/sharer.php" title="Share this post on Facebook" class="service-links-facebook-share" rel="https://www.ceinpro.es/trabajos-de-alumnos/2022/programa-ikasenpresa-2022" target="_blank"><span class="element-invisible">Compartir en Facebook</span></a></li>
+</ul></article>
+
+
+
+
+  </div>
+</div>
+  </div>
+              </section>
+    </div>
+    <!-- Page Content / End -->
+    
+    <div class="clearfix"></div>
+
+  </div>
+
+  
+
+  
+</div>
+<!-- Content Wrapper / End -->
+
+
+
+
+
+<!-- SemiFooter Bottom / Start -->
+
+
+
+<!-- SemiFooter Bottom / Start -->
+
+
+
+
+
+
+
+
+
+
+<!-- Footer
+================================================== -->
+<div id="footer" class="dark">
+  <div class="container">
+
+          <div class="four columns">
+          <div class="region region-footer-first">
+    <div id="block-block-27" class="block block-block">
+
+    <h2>Ciclos Formativos</h2>
+  
+  <div class="content">
+    <ul class="get-in-touch"><li><a href="/ciclos-formativos/preimpresion-digital">Preimpresión Digital</a></li>
+	<li><a href="/ciclos-formativos/diseno-y-edicion-de-publicaciones-impresas-y-multimedia">Diseño y Edición de Publicaciones Impresas y Multimedia</a></li>
+	<li><a href="/ciclos-formativos/animaciones-3d-juegos-entornos-interactivos">Animaciones 3D, Juegos y Entornos Interactivos</a></li>
+	<li><a href="/ciclos-formativos/trabajos-de-alumnos" title="Trabajos de Alumnos">Trabajos de Alumnos</a></li>
+</ul>  </div>
+</div>
+  </div>
+      </div>
+    
+          <div class="four columns">
+          <div class="region region-footer-second">
+    <div id="block-block-28" class="block block-block">
+
+    <h2>Formación para el Empleo</h2>
+  
+  <div class="content">
+    <ul class="get-in-touch"><li><a href="/cursos">Listado de cursos</a></li>
+      <li><a href="/formacion-para-el-empleo/lanbide">Lanbide</a></li>
+      <li><a href="/master-web-multimedia">Máster Web y Multimedia</a></li>
+      <li><a href="/master-tecnologias-3d">Máster en Tecnologías 3D y Aplicaciones Interactivas</a></li>
+      <li><a href="/formacion-para-el-empleo/pearson-vue">Pearson VUE</a></li>
+</ul>  </div>
+</div>
+  </div>
+      </div>
+    
+          <div class="four columns">
+          <div class="region region-footer-third">
+    <div id="block-block-25" class="block block-block">
+
+    <h2>Contacto</h2>
+  
+  <div class="content">
+    <ul class="get-in-touch"><li><a href="/ceinpro/localizacion"><i class="icon-map-marker"></i> <p><strong>Dirección:</strong>Hériz, 95 - Donostia</p></a></li>
+  <li><i class="icon-phone"></i> <p><strong>Teléfono:</strong> 943 31 08 73</p></li>
+  <li><i class="icon-print"></i> <p><strong>Fax:</strong> 943 31 08 75</p></li>
+  <li><a href="mailto:secretaria@ceinpro.es"><i class="icon-envelope"></i> <p><strong>Email:</strong> secretaria@ceinpro.es</p></a></li>
+  <li><i class="icon-time"></i> <p><strong>Horario de secretaría:</strong> de 9h a 19h</p></li>
+</ul>  </div>
+</div>
+  </div>
+      </div>
+    
+
+    
+
+  </div>
+
+</div>
+<!-- Footer / End -->
+
+<!-- Footer Bottom / Start -->
+<div id="footer-bottom">
+
+  <!-- Container -->
+  <div class="container">
+    <div class="sixteen columns">
+        <div class="region region-footer">
+    <div id="block-block-26" class="block block-block">
+
+    
+  <div class="content">
+    <div class="twelve columns alpha">© Copyright 2018 <a href="#">CEINPRO</a>. | <a href="/privacidad">Política de privacidad</a> | <a href="/aviso-legal">Aviso Legal</a> | <a href="/ceinpro/politica-de-sistema-integrado-de-gestion">Política de SIG</a> | <a href="/politica-de-cookies">Política de Cookies</a></div>
+<div class="four columns omega">
+  <ul class="social-icons-footer"><li><a href="https://twitter.com/ceinpro" class="tooltip top" title="Twitter"><i class="icon-twitter"></i></a></li>
+    <li><a href="https://facebook.com/ceinpro" class="tooltip top" title="Facebook"><i class="icon-facebook"></i></a></li>
+    <li><a href="https://www.youtube.com/ceinpro" class="tooltip top" title="Youtube"><i class="icon-youtube"></i></a></li>
+  </ul></div>
+  </div>
+</div>
+  </div>
+    </div>
+
+  </div>
+  <!-- Container / End -->
+
+</div>
+<!-- Footer Bottom / Start -->
+  <div class="region region-page-bottom">
+    <div id="fb-root" class="fb_module"></div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  jQuery.extend(Drupal.settings, {"fb":{"base_url":"https:\/\/www.ceinpro.es","ajax_event_url":"https:\/\/www.ceinpro.es\/fb\/ajax","is_anonymous":true,"fb_init_settings":{"xfbml":false,"status":false,"oauth":true,"cookie":true,"channelUrl":"https:\/\/www.ceinpro.es\/fb\/channel"},"test_login_status":false,"get_login_status":1,"controls":"","js_sdk_url":"https:\/\/connect.facebook.net\/es_ES\/all.js"}});
+
+if (typeof(FB) == 'undefined') {
+  var e = document.createElement('script');
+  e.async = true;
+  e.src = Drupal.settings.fb.js_sdk_url;
+  document.getElementById('fb-root').appendChild(e);
+}
+
+
+//--><!]]>
+
+</script>
+  </div>
+<script type="text/javascript" src="https://www.ceinpro.es/modules/statistics/statistics.js?r685wo"></script>
+  </body>
+</html>
